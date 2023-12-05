@@ -1,0 +1,8 @@
+-Refaire la BDD avec les association 1.n et 1.1 (different de 0.1 et 0.n par une obligtion de réalisation)
+mais revoir les cours parceque je ne suis pas sur.
+
+-les wireframes sont trop petits, difficulté de lecture.
+
+-Changer la couleur rouge dans le use_case, on ne voit rien sur un rétro projecteur
+
+-diviser les diag sequence et ... en deux slides, afin de pouvoir mieux les lire et les détaillez.
